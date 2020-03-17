@@ -1,0 +1,251 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(/img/background.jpg) ;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+/*bitácora*/
+.contenedor-login{
+    text-align: center;
+    width: 320px;
+    height: 520px;
+    background: #000;
+    color: #fff;
+    top: 10%;
+    left: 1%;
+    position: absolute;
+    transform: translate(-50% -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.contenedor-login-b{
+    text-align: center;
+    width: 320px;
+    height: 520px;
+    background: #000;
+    color: #fff;
+    top: 10%;
+    left:25%;
+    position: absolute;
+    transform: translate(-50% -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+} 
+
+.contenedor-login-c{
+    text-align: center;
+    width: 320px;
+    height: 520px;
+    background: #000;
+    color: #fff;
+    top: 10%;
+    left: 49%;
+    position: absolute;
+    transform: translate(-50% -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+} 
+
+.contenedor-login-d{
+    text-align: center;
+    width: 320px;
+    height: 520px;
+    background: #000;
+    color: #fff;
+    top: 10%;
+    left:74%;
+    position: absolute;
+    transform: translate(-50% -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+} 
+
+/*h1*/
+.contenedor-login h1{
+    margin: -40px;
+    padding: 0 0 100px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.contenedor-login-b h1{
+    margin: -40px;
+    padding: 0 0 100px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.contenedor-login-c h1{
+    
+    margin: -40px;
+    padding: 0 0 100px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.contenedor-login-d h1{
+    
+    margin: -40px;
+    padding: 0 0 100px;
+    text-align: center;
+    font-size: 22px;
+}
+
+/*label*/
+.contenedor-login label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.contenedor-login-b label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.contenedor-login-c label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.contenedor-login-d label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+/*input*/
+.contenedor-login input{
+    width: 20%;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+.contenedor-login-b input{
+    width: 20%;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+.contenedor-login-c input{
+    width: 20%;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+.contenedor-login-d input{
+    width: 20%;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+/*number*/
+.contenedor-login input[type="number"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.contenedor-login-b input[type="number"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.contenedor-login-c input[type="number"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.contenedor-login-d input[type="number"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    font-size: 15px;
+}
+
+/*submit*/
+.contenedor-login input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgb(166, 255, 0);
+    color: white;
+    font-size: 18px;   
+    cursor: pointer; 
+    border-radius: 5px;
+    width: 100%;
+}
+.contenedor-login-b input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgb(166, 255, 0);
+    color: white;
+    font-size: 18px;   
+    cursor: pointer; 
+    border-radius: 5px;
+    width: 100%;
+}
+
+.contenedor-login-c input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgb(166, 255, 0);
+    color: white;
+    font-size: 18px;   
+    cursor: pointer; 
+    border-radius: 5px;
+    width: 100%;
+}
+
+.contenedor-login-d input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgb(166, 255, 0);
+    color: white;
+    font-size: 18px;   
+    cursor: pointer; 
+    border-radius: 5px;
+    width: 100%;
+}
+
+ a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+    top: 100%;
+    left: 90%;
+    position: absolute;
+}
+
+a:hover{
+    color: rgb(166, 255, 0);
+}

@@ -1,0 +1,23 @@
+.contenedor-login{
+    width: 320px;
+    height: 440px;
+    background: #000;
+    color: #fff;
+    top: 20%;
+    left: 40%;
+    position: absolute;
+    transform: translate(-50% -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.contenedor-login a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.contenedor-login a:hover{
+    color: rgb(166, 255, 0);
+}

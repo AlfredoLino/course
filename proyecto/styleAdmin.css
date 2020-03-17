@@ -1,0 +1,90 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 87%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+}
+h2{
+    width: 70%;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+table{
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ultimo{
+    margin-top: 20px;
+}
+
+
+th{
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+tr{
+    border-color: green;
+    border-bottom-width: 10px;
+}
+td{
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+ul{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 750px;
+}
+ul:last-child{
+    margin-right: 0px;
+}
+li{
+    display: inline;
+    margin-left: 10px;
+}
+.contenedor{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(63, 114, 215);
+    border-radius: 10px;
+}
+.tablas{
+    background-color: grey;
+    border-radius: 10px;
+    height: 25rem;
+    padding-top: 20px;
+}
+.contenedorPadre{
+    display: flex;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav a{
+    text-decoration: none;
+    color: blueviolet;
+    margin-right:20px ;
+}
+a{
+text-decoration: none;
+color: blueviolet;}
+nav{
+    text-align: right;
+    background-color: grey;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+.boton_del{
+    background-color:black;
+    border-radius: 5px;
+}

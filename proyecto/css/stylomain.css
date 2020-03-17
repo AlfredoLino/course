@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    padding:0;
+    background: url(../imagen/background.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navegador a{
+        text-decoration: none;
+        font-size: 15px;
+        line-height: 20px;
+        color: darkgrey;
+}
+#opciones{ 
+        display: flex;
+        
+        height: 30rem;
+        align-items: center;
+}
+nav{
+    display: flex;
+    margin: 2rem auto 0 auto;
+    border : 2rem solid white;
+    border-radius: 1rem;
+    justify-content: space-between;
+    max-height: 5rem;
+    padding: 0 1rem 0 1rem;
+
+}
+nav p{
+    color:black;    
+    font-size: 2rem;
+    
+    margin-right: 1rem;
+}
+#lastp{
+    margin-right: 0px;
+}
+nav p:hover{
+    font-size: 2.3rem;
+}
+
